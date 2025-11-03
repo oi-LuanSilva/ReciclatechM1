@@ -8,12 +8,16 @@ header {
     // justify-content: space-between; Alinha o primeiro item no começo, o último no final e os outros separados igualmente
     justify-content: space-around;
     align-items: center;
-    border: solid green 5px;
     height: 10vh;
     h1 {
-        background-color: red;
+        
     }
     nav {
-        background-color: aqua;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        
+        height: 10vh;
+        width: 40%;
     }
 }

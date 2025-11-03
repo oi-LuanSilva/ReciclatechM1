@@ -8,12 +8,12 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  border: solid green 5px;
   height: 10vh;
 }
-header h1 {
-  background-color: red;
-}
 header nav {
-  background-color: aqua;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  width: 40%;
 }/*# sourceMappingURL=style.css.map */
